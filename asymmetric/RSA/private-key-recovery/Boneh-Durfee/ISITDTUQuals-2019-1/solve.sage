@@ -1,3 +1,5 @@
+#Copyright © 2019, pcw109550 (https://github.com/pcw109550/write-up/blob/master/2019/ISITDTU/Easy_RSA_1/solve.sage)
+
 import time
 
 ############################################
