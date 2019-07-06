@@ -1,3 +1,5 @@
+#Copyright © 2019, pcw109550 (https://github.com/pcw109550/write-up/blob/master/2019/Facebook/storagespace/ECDLP.sage)
+
 from sys import argv
 import hashlib
 import random
