@@ -47,3 +47,21 @@ https://github.com/SVolkoff/CTFoverview/tree/master/asymmetric/RSA/plain-text-re
 https://ctftime.org/task/5781
 
 https://github.com/SVolkoff/CTFoverview/tree/master/asymmetric/RSA/plain-text-recovery/Hastad-broadcast-attack/UIUCTF-2018-1
+
+### TokyoWesterns CTF-2018 - mixed cipher
+
+https://ctftime.org/task/6514
+
+https://github.com/SVolkoff/CTFoverview/tree/master/asymmetric/RSA/plain-text-recovery/LSB-oracle-attack/TokyoWesternsCTF-2018-1
+
+### ISITDTU 2019 - Easy RSA 2
+
+https://ctftime.org/task/8848
+
+https://github.com/SVolkoff/CTFoverview/tree/master/asymmetric/RSA/private-key-recovery/Fermat's-factorization-method/ISITDTUQuals-2019-1
+
+### ISITDTU Quals 2019 - Easy RSA 1
+
+https://ctftime.org/task/8844
+
+https://github.com/SVolkoff/CTFoverview/tree/master/asymmetric/RSA/private-key-recovery/Boneh-Durfee/ISITDTUQuals-2019-1
